@@ -1,0 +1,16 @@
+G:\C#\ZuPu\bin\Debug\ZuPu.exe.config
+G:\C#\ZuPu\bin\Debug\ZuPu.exe
+G:\C#\ZuPu\bin\Debug\ZuPu.pdb
+G:\C#\ZuPu\obj\Debug\ZuPu.csprojAssemblyReference.cache
+G:\C#\ZuPu\obj\Debug\ZuPu.Properties.Resources.resources
+G:\C#\ZuPu\obj\Debug\ZuPu.csproj.GenerateResource.cache
+G:\C#\ZuPu\obj\Debug\ZuPu.exe
+G:\C#\ZuPu\obj\Debug\ZuPu.pdb
+G:\C#\ZuPu\obj\Debug\ZuPu.Form1.resources
+G:\C#\ZuPu\obj\Debug\ZuPu.Form2.resources
+G:\C#\ZuPu\obj\Debug\ZuPu.Form3.resources
+G:\C#\ZuPu\obj\Debug\ZuPu.Form4.resources
+G:\C#\ZuPu\obj\Debug\ZuPu.Form5.resources
+G:\C#\ZuPu\bin\Debug\DB\ZuPu.accdb
+G:\C#\ZuPu\obj\Debug\ZuPu.AccessList.resources
+G:\C#\ZuPu\bin\Debug\DB\ZuPu.mdb
